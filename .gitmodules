@@ -1,0 +1,3 @@
+[submodule "documentatie"]
+	path = documentatie
+	url = git@github.ugent.be:GevAl/documentatie.git
